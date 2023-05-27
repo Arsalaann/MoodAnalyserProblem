@@ -19,7 +19,7 @@ namespace MoodAnalyser
 			}
 			catch(MoodAnalysisException)
 			{
-				Console.WriteLine("You have to enter a mood status phrase");
+				Console.WriteLine("Empty mood");
 			}
 			catch(Exception exp2)
 			{
