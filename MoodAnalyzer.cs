@@ -4,10 +4,10 @@ namespace MoodAnalyser
 	{
 		public bool AnalyseMood(string s)
 		{
-			string []arr=s.split(' ');
+			string []arr=s.Split(' ');
 			foreach(var ele in arr)
 			{
-				if(ele.LowerCase=="happy")
+				if(ele.ToLower()=="happy")
 					return true;
 			}
 			return false;

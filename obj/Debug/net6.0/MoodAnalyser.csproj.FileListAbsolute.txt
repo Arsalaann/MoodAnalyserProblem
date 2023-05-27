@@ -1,0 +1,15 @@
+/home/luser/pgming/MoodAnalyser/obj/Debug/net6.0/MoodAnalyser.csproj.AssemblyReference.cache
+/home/luser/pgming/MoodAnalyser/obj/Debug/net6.0/MoodAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+/home/luser/pgming/MoodAnalyser/obj/Debug/net6.0/MoodAnalyser.AssemblyInfoInputs.cache
+/home/luser/pgming/MoodAnalyser/obj/Debug/net6.0/MoodAnalyser.AssemblyInfo.cs
+/home/luser/pgming/MoodAnalyser/obj/Debug/net6.0/MoodAnalyser.csproj.CoreCompileInputs.cache
+/home/luser/pgming/MoodAnalyser/bin/Debug/net6.0/MoodAnalyser
+/home/luser/pgming/MoodAnalyser/bin/Debug/net6.0/MoodAnalyser.deps.json
+/home/luser/pgming/MoodAnalyser/bin/Debug/net6.0/MoodAnalyser.runtimeconfig.json
+/home/luser/pgming/MoodAnalyser/bin/Debug/net6.0/MoodAnalyser.dll
+/home/luser/pgming/MoodAnalyser/bin/Debug/net6.0/ref/MoodAnalyser.dll
+/home/luser/pgming/MoodAnalyser/bin/Debug/net6.0/MoodAnalyser.pdb
+/home/luser/pgming/MoodAnalyser/obj/Debug/net6.0/MoodAnalyser.dll
+/home/luser/pgming/MoodAnalyser/obj/Debug/net6.0/ref/MoodAnalyser.dll
+/home/luser/pgming/MoodAnalyser/obj/Debug/net6.0/MoodAnalyser.pdb
+/home/luser/pgming/MoodAnalyser/obj/Debug/net6.0/MoodAnalyser.genruntimeconfig.cache
