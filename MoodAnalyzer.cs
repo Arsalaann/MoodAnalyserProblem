@@ -7,10 +7,10 @@ namespace MoodAnalyser
 			string []arr=s.Split(' ');
 			foreach(var ele in arr)
 			{
-				if(ele.ToLower()=="happy")
-					return true;
+				if(ele.ToLower()=="sad")
+					return false;
 			}
-			return false;
+			return true;
 		}
 	}
 }
