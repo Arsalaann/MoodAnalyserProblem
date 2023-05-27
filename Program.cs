@@ -9,15 +9,17 @@ namespace MoodAnalyser
 				Console.Write("Enter mood status: ");
 				string mood="";
 				mood+=Console.ReadLine();
+				if(mood.Length==0)
+					throw new MoodAnalysisException();
 				MoodAnalyzer person1=new MoodAnalyzer(mood);
 				if(person1.AnalyseMood()==true)
 					Console.WriteLine("Happy");
 				else
 					Console.WriteLine("Sad");
 			}
-			catch(FormatException)
+			catch(MoodAnalysisException)
 			{
-				Console.WriteLine("You have to enter a string");
+				Console.WriteLine("You have to enter a mood status phrase");
 			}
 			catch(Exception exp2)
 			{
