@@ -4,7 +4,7 @@ namespace MoodAnalyser
 	{
 		public static void Main(string[] args)
 		{
-			MoodAnalyzer person1=new MoodAnalyzer("I am in sad mood");
+			MoodAnalyzer person1=new MoodAnalyzer("I am in Happy mood");
 			if(person1.AnalyseMood()==true)
 				Console.WriteLine("Happy");
 			else
