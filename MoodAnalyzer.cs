@@ -2,9 +2,15 @@ namespace MoodAnalyser
 {
 	class MoodAnalyzer
 	{
-		public bool AnalyseMood()
+		public bool AnalyseMood(string s)
 		{
-			return true;
+			string []arr=s.split(' ');
+			foreach(var ele in arr)
+			{
+				if(ele.LowerCase=="happy")
+					return true;
+			}
+			return false;
 		}
 	}
 }
